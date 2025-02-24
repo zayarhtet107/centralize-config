@@ -1,5 +1,5 @@
 user:
-  role: Admin
+  role: Admin app
 
 welcome:
-  message: Welcome to the Spring Cloud Config managed application!
+  message: Welcome to the Spring Cloud Config managed application! app
