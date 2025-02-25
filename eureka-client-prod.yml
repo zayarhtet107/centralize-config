@@ -1,0 +1,5 @@
+user:
+  role: Admin Prod
+
+welcome:
+  message: Welcome to the Spring Cloud Config managed application! Prod Config
