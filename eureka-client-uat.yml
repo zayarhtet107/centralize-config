@@ -2,7 +2,7 @@ spring:
   application:
     name: eureka-client
 user:
-  role: Admin UAT refresh test 20250226
+  role: Admin UAT refresh test 20250226  01
 
 welcome:
-  message: Welcome to the Spring Cloud Config managed application! UAT config 25435234
+  message: Welcome to the Spring Cloud Config managed application! UAT config 20250226 01
