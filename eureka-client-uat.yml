@@ -2,7 +2,7 @@ spring:
   application:
     name: eureka-client
 user:
-  role: Admin UAT refresh test auto refresh call from webhook 1234
+  role: Admin UAT refresh test auto refresh
 
 welcome:
-  message: Welcome to the Spring Cloud Config managed application! call from webhook 1234
+  message: Welcome to the Spring Cloud Config managed application! auto refresh
